@@ -73,6 +73,5 @@ This project demonstrates how to present a **Popover** in iOS using `UIPopoverPr
 
 | Main View | Popup View |
 | :-------: | :--------: |
-| (Screenshots/MainView.png) | (Screenshots/Popover.png) |
+| ![Main View](Screenshots/MainView.png) | ![Popup View](Screenshots/Popover.png) |
 
----
